@@ -8,5 +8,5 @@ The repository for my Stats 220 Assignment
 
 ## About the creator
 1. I am a serial procrastinator
-2. My favourite website is [Zouss.city](zouss.city)
+2. My favourite website is [Zouss.city](https://zouss.city/)
 3. I am an advocate for the pronounciation of G-if over J-if
